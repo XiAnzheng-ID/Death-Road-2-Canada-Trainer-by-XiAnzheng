@@ -36,13 +36,6 @@ def ammo(stop_event):
         process.write(Offset.p4g, 500)
         #process.write(Offset.p4b, 500)
 
-        #special?
-        process.write(Offset.sd, 500)
-        process.write(Offset.sr, 500)
-        process.write(Offset.ss, 500)
-        process.write(Offset.sg, 500)
-        #process.write(Offset.p5b, 500)
-
         time.sleep(0.1)
 
 

@@ -98,7 +98,7 @@ try:
 
     app = ctk.CTk()
     app.geometry("500x300")
-    app.title("DR2C Trainer by XiAnzheng v19.09.2024")
+    app.title("DR2C Trainer by XiAnzheng v05.1.2025(Quadriceps Update)")
     app.protocol("WM_DELETE_WINDOW", on_closing)
 
     # Toggle
@@ -111,17 +111,17 @@ try:
     health_switch = ctk.CTkSwitch(app, text="Unlimited Health", command=toggle_health)
     health_switch.grid(row=2, column=0, padx=20, pady=10)
     
-    stat_switch = ctk.CTkSwitch(app, text="Max Stats(WIP)", state="disabled", command=toggle_max_stat)
+    stat_switch = ctk.CTkSwitch(app, text="No Decay & Max Stats", command=toggle_max_stat)
     stat_switch.grid(row=3, column=0, padx=20, pady=10)
 
     # Manual Editor
     item_id = ctk.CTkEntry(app, placeholder_text="Item ID?")
     item_id.grid(row=0, column=2, padx=10, pady=10)
-    item_id.bind("<KeyRelease>", validate_entry)  # Memanggil validasi saat teks berubah
+    item_id.bind("<KeyRelease>", validate_entry)  # validate entry on change
 
     quantity = ctk.CTkEntry(app, placeholder_text="Quantity?")
     quantity.grid(row=0, column=3, padx=0, pady=10)
-    quantity.bind("<KeyRelease>", validate_entry)  # Memanggil validasi saat teks berubah
+    quantity.bind("<KeyRelease>", validate_entry)  # validate entry on change
 
     quantity_button = ctk.CTkButton(app, text="Inject Item", command=inject_item, state=ctk.DISABLED)
     quantity_button.place(relx=0.66, rely=0.2, anchor=ctk.CENTER)

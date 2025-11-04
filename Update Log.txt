@@ -1,132 +1,19 @@
 !!!READ!!! :
--how to use? just run the main.py easy as that :D (ignore the app.py as thats for me build the executable file)
+-how to use? just run the app.py easy as that :D
 -Some Feature may have bug in it 
 
 Special Thanks to: 
--Steam User @guiLe(https://steamcommunity.com/profiles/76561197966239551)
- his tutorial help me a lot to study this game :D (https://steamcommunity.com/sharedfiles/filedetails/?id=749219319)
+-Steam User @guiLe(https://steamcommunity.com/profiles/76561197966239551) 
+his tutorial help me a lot to study this game :D (https://steamcommunity.com/sharedfiles/filedetails/?id=749219319)
 
-Note for stats :
-base value i found 67109633 (use 256 increment value) or use 98300 for maximum value i can find
-i cant hack some stat like speed as that nearly impossible to auto scan as there is no way
-to change value in game like upgrade or training but i will try to find a workaround
+-Discord DR2C Modder knavesmith (knavesmith)
+help me how to use the dev/command console
 
-Note for Quantity Editor:
-DO NOT EDIT WHEN THERE IS NO ITEM AT FIRST INVENTORY SLOT (TOP LEFT CORNER)
+Note for Quantity & Item Editor:
+only effect the first inventory slot (top left corner)
 just put your item/weapon you want to edit the Quantity number
-on the first inventory slot (top left corner) 
 
 Note for inventory editor: 
 Some items are set so they cannot be traded or dropped. Ex: the wand. 
-so it can cause some bug or glitches you dont want to , or dont use this feature at all
-as this can break your savedata BE CAREFULL
-i havent list all the item ID so yeah you can try it your self(USE ANOTHER SAVESLOT OR DATA)
-i found out the max item id is 248 beyond that is unusable item
-
-6  - blowtorch
-7  - chainsaw
-8  - baseball bat
-9  - nailboard
-10 - wrench
-11 - sledgehammer
-12 - kitchenknife
-13 - meatcleaver
-14 - spatula
-15 - hatchet
-16 - cowboy rifle
-17 - hunting rifle
-18 - shotgun
-19 - autoshotgun
-20 - slug shotgun
-21 - big dawg (shotgun)
-22 - dolt 45 pistol
-23 - pistol
-24 - snubnose pistol
-25 - uzi (pistol)
-26 - ak
-27 - cane
-28 - frying pan
-29 - otaku katana
-30 - peice of woof
-31 - crowbar
-32 - nightstick
-33 - cricket bat
-34 - aluminium bat
-35 - femur
-36 - golf club
-37 - medievil axe
-38 - strong katana
-39 - knight sword
-40 - claymore
-41 - zweihander
-42 - fire axe
-43 - umbrella
-44 - beach umbrella
-45 - hocket stick
-46 - xtreme hocket stick
-47 - mountie hocket stick
-48 - cardboard tube
-49 - pitchfork
-50 - shovel
-51 - tree branch
-52 - metal pipe
-53 - rusty machete
-54 - sturdy machete
-55 - parking meter
-56 - lovely wand
-57 - rapier
-58 - toy hammer
-59 - gauntlet
-60 - punchquest gauntlet
-61 - boxing glove
-62 - uppercut (boxing glove)
-63 - morning star
-64 - pool1
-65 - pool2(looks like foam pool toys)
-66 - debutante umbrella
-67 - mason's machete
-68 - rambeux knife
-69 - minigun
-70 - ridiculous pistol
-71 - vlambeer shotgun
-72 - ninja katana
-73 - take this (sword)
-74 - white sword
-75 - m#ster sword (not a typo)
-76 - grenade
-77 - pipe bomb
-78 - lnk bomb
-79 - bottle
-80 - kunai
-81 - shuriken
-82 - smoke bomb
-83 - wooden boomerang
-84 - metal boomerage
-85 - wind shuriken
-86 - mjollin'er
-87 - flamethrower
-88 - molotov
-89 - zombie leg
-90 - spine
-91 - spine with skull accesory
-92 - re-bar
-93 - devil fork
-94 - broom
-95 - mop
-96 - ultra-mop
-97 - fishing pole
-98 - ridiculous fishing pole
-99 - electric guitar
-100- antlers
-101- raygun
-102- 2x4
-103- flashlight
-104- pokin
-105- ehzerbeam
-106- fierceclaws
-107- mason's chainsaw
-108- killfu
-109- hammer
-110- ballpeen hammer
-
-test the rest yourself
+so it can cause some bug or glitches you dont want to
+becarefull as this can break your savedata , or dont use this feature at all
