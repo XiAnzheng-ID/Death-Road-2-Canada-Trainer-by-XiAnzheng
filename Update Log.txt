@@ -17,3 +17,4 @@ Note for inventory editor:
 Some items are set so they cannot be traded or dropped. Ex: the wand. 
 so it can cause some bug or glitches you dont want to
 becarefull as this can break your savedata , or dont use this feature at all
+for item ID number check the DR2C Fandom wikipedia

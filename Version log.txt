@@ -38,4 +38,5 @@ Whats new?
 > Version 05.11.2025
 Whas new?
 - Quadriceps Update
+- Added No Decay & Max Stats
 - Added Unlimited Health to Animal Character
